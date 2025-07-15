@@ -1,10 +1,5 @@
 
 package hotel.management.system;
-
-/**
- *
- * @author AJAY
- */
 import java.sql.*;  
 
 public class Conn{
